@@ -42,6 +42,9 @@ iss.shape("images/iss.gif")
 iss.setheading(45)
 iss.penup()
 print("my nw chnges")
+
+
+print("hey this is the chinu")
 while True:
     
     url = "http://api.open-notify.org/iss-now.json"
