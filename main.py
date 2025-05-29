@@ -44,7 +44,7 @@ iss.penup()
 print("my nw chnges")
 
 
-print("hey this is the chinu")
+print("hey this is the cfdhkhkahdfhinu")
 while True:
     
     url = "http://api.open-notify.org/iss-now.json"
