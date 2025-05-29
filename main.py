@@ -41,7 +41,7 @@ iss = turtle.Turtle()
 iss.shape("images/iss.gif")
 iss.setheading(45)
 iss.penup()
-
+print("my nw chnges")
 while True:
     
     url = "http://api.open-notify.org/iss-now.json"
